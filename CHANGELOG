@@ -1,0 +1,19 @@
+------------------------------------- 09/03/2017 -------------------------------------
+> [BUG] Recaptcha error success output
+> [BUG Solution] Remove recaptcha temporary
+> [New Feature] Add first balance field in account setting
+> [New Feature] Add administrator menu (User Manager)
+------------------------------------- 10/03/2017 -------------------------------------
+> [New Feature] Add avatar from first letter of name
+------------------------------------- 14/03/2017 -------------------------------------
+> [New Feature] Add breadcrumbs
+------------------------------------- 15/04/2017 -------------------------------------
+> [Fix minor bug] Redirect other user except admin when access admin area
+------------------------------------- 24/04/2017 -------------------------------------
+> [Fix minor bug] Add new function in main model for print consistent structure title
+------------------------------------- 25/04/2017 -------------------------------------
+> [New Feature] Add trx detail with print feature
+> [Fix minor bug] Fix add new trx page
+------------------------------------- 29/04/2017 -------------------------------------
+> [New Feature] Login with social media (google/facebook)
+> [BUG] Login with facebook permission error
