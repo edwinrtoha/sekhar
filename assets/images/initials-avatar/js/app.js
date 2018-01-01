@@ -1,0 +1,9 @@
+/*
+app.js
+*/
+$(document).ready(function(){
+	$('.menu-avatar-wrap').click(function(){
+		$('.menu-avatar-action').toggleClass('menu-avatar-action-effect');
+		$('.demo_tip').toggleClass('demo_tip_effect');
+	});
+});
